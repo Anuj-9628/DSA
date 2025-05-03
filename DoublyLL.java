@@ -148,7 +148,6 @@ public class DoublyLL {
   }
 
   public static void main(String[] args) {
-    // 4 10 2 99 13
     Node a = new Node(1);
     Node b = new Node(1);
     Node c = new Node(2);
